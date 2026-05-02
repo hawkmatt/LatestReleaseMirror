@@ -3,4 +3,5 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-anonvector/SlipNet|slipnet-windows-amd64.exe
+#anonvector/SlipNet|slipnet-windows-amd64.exe
+masterking32/MasterDnsVPN|MasterDnsVPN_Client_Windows_AMD64.zip
