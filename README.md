@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="anonvector--slipnet"></div>
+<div id="masterking32--masterdnsvpn"></div>
 
-### anonvector--SlipNet
+### masterking32--MasterDnsVPN
 
-🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.04.12.234117-978faee</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.04.12.234117-978faee)
 
 | File | Size | Download |
 |------|------|----------|
-| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/hawkmatt/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/hawkmatt/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
 <!-- RELEASES_END -->
