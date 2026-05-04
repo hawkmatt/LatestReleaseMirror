@@ -5,3 +5,4 @@
 
 #anonvector/SlipNet|slipnet-windows-amd64.exe
 masterking32/MasterDnsVPN|MasterDnsVPN_Client_Windows_AMD64.zip
+kamalhagh/kevinnet-dns|KevinNet_Windows_x64.exe
