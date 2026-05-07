@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="kamalalhagh--kevinnet-dns"></div>
+<div id="kianmhz--gooserelayvpn"></div>
 
-### kamalalhagh--kevinnet-dns
+### kianmhz--GooseRelayVPN
 
-🔗 [source](https://github.com/kamalalhagh/kevinnet-dns) – [<code><small>v3.1.7</small></code>](https://github.com/kamalalhagh/kevinnet-dns/releases/tag/v3.1.7)
+🔗 [source](https://github.com/kianmhz/GooseRelayVPN) – [<code><small>v1.6.0</small></code>](https://github.com/kianmhz/GooseRelayVPN/releases/tag/v1.6.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `KevinNet_Windows_x64.exe` | 26.4 MB | [⬇️ Download](https://raw.githubusercontent.com/hawkmatt/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_x64.exe) |
+| `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hawkmatt/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
 <!-- RELEASES_END -->
