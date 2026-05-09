@@ -6,5 +6,5 @@
 #anonvector/SlipNet|slipnet-windows-amd64.exe
 #masterking32/MasterDnsVPN|MasterDnsVPN_Client_Windows_AMD64.zip
 #kamalalhagh/kevinnet-dns|KevinNet_Windows_x64.exe
-kianmhz/GooseRelayVPN|GooseRelayVPN-client-v1.6.0-windows-amd64.zip
-
+#kianmhz/GooseRelayVPN|GooseRelayVPN-client-v1.6.0-windows-amd64.zip
+kianmhz/GooseRelayVPN|GooseRelayVPN-client-v1.6.0-darwin-arm64.tar.gz
