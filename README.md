@@ -165,5 +165,5 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/hawkmatt/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
+| `GooseRelayVPN-client-v1.6.0-darwin-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/hawkmatt/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-darwin-arm64.tar.gz) |
 <!-- RELEASES_END -->
